@@ -1,0 +1,61 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+#ana-cerceve {
+    background-color: #ffffff;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #bbbbbb;
+}
+
+.ust-kisim {
+    text-align: center;
+}
+
+.ust-kisim img {
+    border: 2px dashed #333;
+    padding: 5px;
+}
+
+h3 {
+    border-left: 5px solid #333;
+    padding-left: 10px;
+    background-color: #eeeeee;
+    line-height: 2;
+}
+
+ul {
+    text-align: left;
+    line-height: 1.8;
+}
+
+.butonlar {
+    margin-top: 15px;
+}
+
+.butonlar a {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 5px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.butonlar a:hover {
+    background-color: #555;
+    text-decoration: underline;
+}
+
+.alt-bilgi {
+    margin-top: 40px;
+    font-size: 11px;
+    color: #888;
+    text-align: center;
+}
